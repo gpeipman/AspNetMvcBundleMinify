@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetMvcBundleMinify", "AspNetMvcBundleMinify\AspNetMvcBundleMinify.csproj", "{021471F3-876A-49F4-8738-694F771A0F97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanWebApplication", "CleanWebApplication\CleanWebApplication.csproj", "{210FBE81-E3F8-41C0-9216-B2B0C3C5B22E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{021471F3-876A-49F4-8738-694F771A0F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021471F3-876A-49F4-8738-694F771A0F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021471F3-876A-49F4-8738-694F771A0F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021471F3-876A-49F4-8738-694F771A0F97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{210FBE81-E3F8-41C0-9216-B2B0C3C5B22E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{210FBE81-E3F8-41C0-9216-B2B0C3C5B22E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{210FBE81-E3F8-41C0-9216-B2B0C3C5B22E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{210FBE81-E3F8-41C0-9216-B2B0C3C5B22E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC05A34A-AC22-4FCF-A676-68875F880735}
+	EndGlobalSection
+EndGlobal
